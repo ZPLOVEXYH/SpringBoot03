@@ -1,7 +1,2 @@
 server:
   port: 8888
-  context-path: /springboot03
-
-author:
-  name: zhangsan
-  age: 30
