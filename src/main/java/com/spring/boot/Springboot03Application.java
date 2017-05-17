@@ -15,6 +15,6 @@ public class Springboot03Application {
 
 	@RequestMapping("/test")
 	public String get(){
-		return "hello world!!!";
+		return "hello world";
 	}
 }
